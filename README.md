@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-Main branch update
-=======
-Feature branch update
->>>>>>> feature/profile
-Main branch update
-Feature branch update
-Feature branch update
+# SCM-3 Assignment
+
+This is the main branch update.
+
+This is the feature branch update for the user profile feature.
